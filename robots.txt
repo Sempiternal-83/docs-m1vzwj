@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vo2m8e.yoursingles.online/sitemap.xml
